@@ -1,7 +1,13 @@
 body {
-    background-color: purple;
+    background-image:url("https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/3/0/5/305f357229_50169077_halo-voie-lactee.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 h1 {
     text-align: center;
     font-size: 25px;
+    color: red;
+}
+p {
+    color: white;
 }
